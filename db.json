@@ -1,4 +1,4 @@
-[
+{ "todos": [
     {
         "id": "6bb8a868-dba1-4f1a-93b7-24ebce87e243",
         "name": "Learn app development",
@@ -18,3 +18,4 @@
         "done": false
     }
 ]
+}
